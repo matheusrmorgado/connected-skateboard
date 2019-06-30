@@ -1,0 +1,1 @@
+# Módulo eletrônico para monitoramento de skates
